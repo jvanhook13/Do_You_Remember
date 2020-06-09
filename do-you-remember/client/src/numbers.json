@@ -1,0 +1,83 @@
+[{
+    "id": 1,
+    "name": "Yi",
+    "image": "http://www.chinese-word.com/font-1/0001.jpg",
+    "clicked": false
+}, {
+    "id": 2,
+    "name": "Er",
+    "image": "http://www.chinese-word.com/font-1/0049.jpg",
+    "clicked": false
+}, {
+    "id": 3,
+    "name": "San",
+    "image": "http://www.chinese-word.com/font-1/0005.jpg",
+    "clicked": false
+}, {
+    "id": 4,
+    "name": "Si",
+    "image": "./components/assets/si.png",
+    "clicked": false
+}, {
+    "id": 5,
+    "name": "Wu",
+    "image": "./components/assets/wu.png",
+    "clicked": false
+}, {
+    "id": 6,
+    "name": "Liu",
+    "image": "./components/assets/liu.png",
+    "clicked": false
+}, {
+    "id": 7,
+    "name": "Qi",
+    "image": "./components/assets/qi.png",
+    "clicked": false
+}, {
+    "id": 8,
+    "name": "Ba",
+    "image": "./components/assets/ba.png",
+    "clicked": false
+}, {
+    "id": 9,
+    "name": "Jiu",
+    "image": "./components/assets/jiu.png",
+    "clicked": false
+}, {
+    "id": 10,
+    "name": "Shi",
+    "image": "./components/assets/shi.png",
+    "clicked": false
+}, {
+    "id": 11,
+    "name": "ShiYi",
+    "image": "./components/assets/shiYi.png",
+    "clicked": false
+}, {
+    "id": 12,
+    "name": "ShiEr",
+    "image": "./components/assets/shiEr.png",
+    "clicked": false
+}, {
+    "id": 13,
+    "name": "ShiSan",
+    "image": "./components/assets/shiSan.png",
+    "clicked": false
+}, {
+    "id": 14,
+    "name": "ShiSi",
+    "image": "./components/assets/shiSi.png",
+    "clicked": false
+}, {
+    "id": 15,
+    "name": "ShiWu",
+    "image": "./components/assets/shiWu.png",
+    "clicked": false
+}, {
+
+    "id": 16,
+    "name": "ShiLiu",
+    "image": "./components/assets/shiLiu.png",
+    "clicked": false
+
+}]

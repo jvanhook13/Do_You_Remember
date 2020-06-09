@@ -1,27 +1,15 @@
 import React from 'react';
+// import Card from "./components/Card"
+import Wrapper from "./components/Wrapper"
+import Board from "./components/Board"
+
 
 
 function App() {
   return (
+
     <Wrapper>
-      <h1 className="title">Friends List</h1>
-      <Card
-
-      />
-      <Card
-
-      />
-      <Card
-  
-      />
-
-      <Card
-  
-      />
-
-      <Card
-  
-      />
+        <Board />
     </Wrapper>
   );
 }
