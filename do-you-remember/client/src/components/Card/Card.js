@@ -5,6 +5,7 @@ import "./Card.css";
 const Card = props => (
 
     <div
+    className="allCards"
     style={{backgroundImage:`url(${props.src})`}}
     alt={props.alt}
     className="block"
