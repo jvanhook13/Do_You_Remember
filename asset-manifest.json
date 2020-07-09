@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Do_You_Remember/static/css/main.0b58f5fd.chunk.css",
+    "main.js": "/Do_You_Remember/static/js/main.2f3d4cab.chunk.js",
+    "main.js.map": "/Do_You_Remember/static/js/main.2f3d4cab.chunk.js.map",
+    "runtime-main.js": "/Do_You_Remember/static/js/runtime-main.1a8449ba.js",
+    "runtime-main.js.map": "/Do_You_Remember/static/js/runtime-main.1a8449ba.js.map",
+    "static/js/2.a3853a7a.chunk.js": "/Do_You_Remember/static/js/2.a3853a7a.chunk.js",
+    "static/js/2.a3853a7a.chunk.js.map": "/Do_You_Remember/static/js/2.a3853a7a.chunk.js.map",
+    "index.html": "/Do_You_Remember/index.html",
+    "precache-manifest.14aa6a416e695b0e11d1be4e0c9c848a.js": "/Do_You_Remember/precache-manifest.14aa6a416e695b0e11d1be4e0c9c848a.js",
+    "service-worker.js": "/Do_You_Remember/service-worker.js",
+    "static/css/main.0b58f5fd.chunk.css.map": "/Do_You_Remember/static/css/main.0b58f5fd.chunk.css.map",
+    "static/js/2.a3853a7a.chunk.js.LICENSE.txt": "/Do_You_Remember/static/js/2.a3853a7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a8449ba.js",
+    "static/js/2.a3853a7a.chunk.js",
+    "static/css/main.0b58f5fd.chunk.css",
+    "static/js/main.2f3d4cab.chunk.js"
+  ]
+}
